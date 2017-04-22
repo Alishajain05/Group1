@@ -22,40 +22,50 @@ def find_all_zipcode(zip_items):
         raise ValueError("input 'zip_items' must be of type str or list")
     return output
 
-def find_all_zipcode(zip_items):
-    #single string
-    if type(zip_items) == str:
-        zipcode_obj = zipcode.islike(zip_items)
-        output = re.findall('\d+', str(zipcode_obj))
-    elif type(zip_items) == list:
-        output = [n for each in zip_items for n in re.findall('\d+', str(zipcode.islike(each)))]
-    else:
-        raise ValueError("input 'zip_items' must be of type str or list")
-    return output
-
 def input_grab(driver, search_term):
-    wait = WebDriverWait(driver, 10)
-
-    actions = wait.until(EC.presence_of_element_located((By.ID, "citystatezip")))
-    button = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "zsg-icon-searchglass")))
-    actions.clear()
-    time.sleep(3)
-    actions.send_keys(search_term)
-    time.sleep(3)
-    button.click()
-    time.sleep(3)
-
     output = []
-    while True:
-        # grab the data
-        output.append(driver.page_source)
-        # click next link
-        try:
-            element = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, 'zsg-pagination-next')))
-            element.click()
+    wait = WebDriverWait(driver, 10)
+    # making the function deal with lists of zip codes
+    if search_term is list:
+        for i in range(len(search_term)):
+            actions = wait.until(EC.presence_of_element_located((By.ID, "citystatezip")))
+            button = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "zsg-icon-searchglass")))
+            actions.clear()
             time.sleep(3)
-        except TimeoutException:
-            break
+            actions.send_keys(search_term[1])
+            time.sleep(3)
+            button.click()
+            time.sleep(3)
+            output.append(driver.page_source)
+            try:
+                element = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, 'zsg-pagination-next')))
+                element.click()
+                time.sleep(3)
+            except TimeoutException:
+                pass
+            continue
+
+    elif search_term is str:
+        actions = wait.until(EC.presence_of_element_located((By.ID, "citystatezip")))
+        button = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "zsg-icon-searchglass")))
+        actions.clear()
+        time.sleep(3)
+        actions.send_keys(search_term)
+        time.sleep(3)
+        button.click()
+        time.sleep(3)
+
+        output = []
+        while True:
+            # grab the data
+            output.append(driver.page_source)
+            # click next link
+            try:
+                element = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, 'zsg-pagination-next')))
+                element.click()
+                time.sleep(3)
+            except TimeoutException:
+                break
     return output
 
 def get_listings(list_obj):
@@ -108,7 +118,7 @@ for i in range(len(listings)):
     try:
         Price.append(
             int(soup.find('span', {"class": "zsg-photo-card-price"}).get_text().split('/')[0].replace('$', '').replace(
-                ',', '')))
+                ',', '').replace('+','')))
     except AttributeError:
         Price.append("NA")
 
