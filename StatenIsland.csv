@@ -1,0 +1,233 @@
+,Dateonmarket,Bathrooms,Bedrooms,City,Monthly Rental,SQFT,State,Zip_Code,streetAddress
+0,2017-04-22,2.0,6.0, Staten Island ,3000.0,2783.0,NY ,10301.0,135 Winter Ave
+1,2017-04-21,1.0,2.0, Staten Island ,2000.0,1248.0,NY ,10301.0,202 Westervelt Avenue # FL 1ST
+2,2017-04-21,1.0,1.0, Staten Island ,1625.0,1087.0,NY ,10301.0,850 Howard Ave
+3,2017-04-19,3.0,4.0, Staten Island ,2400.0,1204.0,NY ,10301.0,12 Montgomery Ave
+4,2017-04-19,1.0,2.0, Staten Island ,1650.0,1848.0,NY ,10301.0,31 Winter Ave
+5,2017-04-19,1.0,2.0, Staten Island ,1650.0,1150.0,NY ,10301.0,Sunnyside Terrace #
+6,2017-04-19,2.0,4.0, Staten Island ,2700.0,2700.0,NY ,10301.0,Layton Ave
+7,2017-04-19,1.0,1.0, Staten Island ,1350.0,688.0,NY ,10301.0,215 Hart Blvd
+8,2017-04-18,1.0,2.0, Staten Island ,1650.0,2030.0,NY ,10301.0,29 Winter Ave # 1
+9,2017-04-13,1.0,1.0, Staten Island ,2000.0,3600.0,NY ,10301.0,9 Corson Ave
+10,2017-04-13,1.0,2.0, Staten Island ,1699.0,800.0,NY ,10301.0,388 Richmond Ter APT 2C
+11,2017-04-12,2.0,2.0, Staten Island ,3400.0,1100.0,NY ,10301.0,155 Bay Street 2-E FL 2
+12,2017-04-09,1.0,3.0, Staten Island ,1900.0,2694.0,NY ,10301.0,Little Clove Rd
+13,2017-04-08,2.0,1.0, Staten Island ,3050.0,1300.0,NY ,10301.0,80 Bay Street Lndg
+14,2017-04-07,1.0,2.0, Staten Island ,1775.0,1000.0,NY ,10301.0,Victory Blvd
+15,2017-04-07,1.0,3.0, Staten Island ,1800.0,2228.0,NY ,10301.0,350 Hoyt Ave # 1
+16,2017-04-06,1.0,2.0, Staten Island ,1500.0,2872.0,NY ,10301.0,10 Egmont Pl
+17,2017-03-27,1.0,2.0, Staten Island ,1600.0,2400.0,NY ,10301.0,(Undisclosed Address)
+18,2017-03-23,1.0,3.0, Staten Island ,2000.0,936.0,NY ,10301.0,Little Clove Rd
+19,2017-03-22,1.0,2.0, Staten Island ,1650.0,2275.0,NY ,10301.0,144 Silver Lake Rd
+20,2017-03-04,1.0,1.0, Staten Island ,1600.0,850.0,NY ,10301.0,36 Hamilton Ave
+21,2017-03-02,1.0,2.0, Staten Island ,1550.0,2200.0,NY ,10301.0,Oxholm Ave
+22,2017-02-24,1.0,3.0, Staten Island ,2250.0,2772.0,NY ,10301.0,16 Avon Pl # 2
+23,2017-02-13,1.0,2.0, Staten Island ,1500.0,800.0,NY ,10301.0,131 Labau Ave
+24,2017-01-31,1.0,1.0, Staten Island ,1550.0,750.0,NY ,10301.0,85 Montgomery Ave APT 3F
+25,2016-09-24,1.0,2.0, Staten Island ,1550.0,3150.0,NY ,10301.0,Oxholm Ave
+26,2017-03-29,1.0,2.0, Staten Island ,1700.0,1000.0,NY ,10302.0,40 Jewett Ave # 1
+27,2016-11-16,1.0,3.0, Staten Island ,2850.0,2500.0,NY ,10302.0,(Undisclosed Address)
+28,2016-11-11,2.0,3.0, Staten Island ,2110.0,1400.0,NY ,10302.0,78 Jewett Ave # 2
+29,2016-10-05,2.0,3.0, Staten Island ,15000.0,2300.0,NY ,10302.0,49 Walker St
+30,2017-04-19,2.0,5.0, Staten Island ,2300.0,1881.0,NY ,10303.0,153 South Ave # 2
+31,2017-04-18,1.0,2.0, Staten Island ,1600.0,1000.0,NY ,10303.0,126 Mersereau Avenue # FL 2ND
+32,2017-04-12,1.0,3.0, Staten Island ,1900.0,1968.0,NY ,10303.0,Harbor Rd
+33,2017-04-09,2.0,3.0, Staten Island ,2300.0,928.0,NY ,10303.0,135 Van Name Ave
+34,2017-04-01,3.0,4.0, Staten Island ,2950.0,2346.0,NY ,10303.0,South Ave
+35,2017-03-18,2.0,3.0, Staten Island ,2600.0,2436.0,NY ,10303.0,45 Union Avenue
+36,2017-03-16,1.0,2.0, Staten Island ,1600.0,1000.0,NY ,10303.0,Continental Pl
+37,2017-02-20,2.0,3.0, Staten Island ,2000.0,2230.0,NY ,10303.0,28 Fancher Pl
+38,2017-04-22,1.0,2.0, Staten Island ,1825.0,850.0,NY ,10304.0,Tompkins St
+39,2017-04-20,1.0,1.0, Staten Island ,1000.0,600.0,NY ,10304.0,45 Brownell St # 1R
+40,2017-04-20,2.0,2.0, Staten Island ,2200.0,1840.0,NY ,10304.0,914 Van Duzer St
+41,2017-04-18,1.0,2.0, Staten Island ,1600.0,2384.0,NY ,10304.0,Cromwell Ave
+42,2017-04-15,2.0,3.0, Staten Island ,3600.0,1470.0,NY ,10304.0,50 Ridgefield Ave
+43,2017-04-14,1.0,2.0, Staten Island ,1400.0,2930.0,NY ,10304.0,Alter Ave
+44,2017-04-06,2.0,3.0, Staten Island ,2600.0,2016.0,NY ,10304.0,Chapin Ave
+45,2017-04-06,1.0,2.0, Staten Island ,1800.0,1100.0,NY ,10304.0,585 Bay St # 2
+46,2017-03-29,1.0,2.0, Staten Island ,1625.0,1196.0,NY ,10304.0,72 Meadow Avenue # FL 2ND
+47,2017-03-26,1.0,3.0, Staten Island ,2000.0,1008.0,NY ,10304.0,412 Saint Pauls Avenue # FL 2ND
+48,2017-03-21,2.0,3.0, Staten Island ,4400.0,2500.0,NY ,10304.0,520 Bay St
+49,2017-02-21,1.0,2.0, Staten Island ,2100.0,1000.0,NY ,10304.0,Bay St
+50,2017-02-13,1.0,3.0, Staten Island ,1800.0,3692.0,NY ,10304.0,Van Duzer St
+51,2017-01-04,1.0,2.0, Staten Island ,1625.0,1924.0,NY ,10304.0,72 Meadow Ave
+52,2016-01-20,1.0,3.0, Staten Island ,2250.0,1300.0,NY ,10304.0,864 Van Duzer St # 1
+53,2015-12-24,2.0,3.0, Staten Island ,1950.0,1300.0,NY ,10304.0,11 Mosel Ave # 1
+54,2017-04-21,1.0,1.0, Staten Island ,1100.0,800.0,NY ,10305.0,129 Hurlbert St
+55,2017-04-21,2.0,3.0, Staten Island ,1680.0,945.0,NY ,10305.0,23 Windom Ave
+56,2017-04-19,1.0,2.0, Staten Island ,1650.0,950.0,NY ,10305.0,135 Cedar Ave # 2NDFLR
+57,2017-04-18,1.0,1.0, Staten Island ,1100.0,3080.0,NY ,10305.0,Jerome Rd
+58,2017-04-18,1.0,1.0, Staten Island ,1200.0,2205.0,NY ,10305.0,Pebble Ln
+59,2017-04-18,1.0,1.0, Staten Island ,1395.0,700.0,NY ,10305.0,121 Lyman Avenue # FL 1ST
+60,2017-04-17,1.0,4.0, Staten Island ,3500.0,1248.0,NY ,10305.0,Buel Ave
+61,2017-04-16,2.0,3.0, Staten Island ,2300.0,864.0,NY ,10305.0,Nautilus St
+62,2017-04-13,1.0,3.0, Staten Island ,2500.0,900.0,NY ,10305.0,Hylan Blvd
+63,2017-04-13,1.0,2.0, Staten Island ,1800.0,3400.0,NY ,10305.0,87 Vera St
+64,2017-04-12,3.0,3.0, Staten Island ,3000.0,3000.0,NY ,10305.0,481 Father Capodanno Blvd
+65,2017-04-09,2.0,3.0, Staten Island ,3500.0,1440.0,NY ,10305.0,45 Pouch Ter # HOUSE
+66,2017-04-08,1.0,1.0, Staten Island ,1100.0,1952.0,NY ,10305.0,Virginia Ave
+67,2017-04-07,1.0,2.0, Staten Island ,1700.0,2576.0,NY ,10305.0,74 Parkinson Ave
+68,2017-04-02,1.0,2.0, Staten Island ,1500.0,2070.0,NY ,10305.0,73 Maryland Ave
+69,2017-03-30,1.0,1.0, Staten Island ,1400.0,2224.0,NY ,10305.0,Windermere Rd
+70,2017-03-28,1.0,2.0, Staten Island ,1650.0,1800.0,NY ,10305.0,135 Cedar Ave
+71,2017-03-26,1.0,1.0, Staten Island ,1500.0,764.0,NY ,10305.0,Belair Rd
+72,2017-03-25,1.0,1.0, Staten Island ,1300.0,600.0,NY ,10305.0,15 Mendelsohn St # 1
+73,2017-03-25,1.0,1.0, Staten Island ,1450.0,650.0,NY ,10305.0,70 Hancock St # 1
+74,2017-03-10,1.0,1.0, Staten Island ,1500.0,900.0,NY ,10305.0,414 Maryland Ave APT 3D
+75,2017-02-22,2.0,4.0, Staten Island ,2200.0,1772.0,NY ,10305.0,34 Conger St
+76,2016-12-20,1.0,2.0, Staten Island ,1500.0,2350.0,NY ,10305.0,27 Mendelsohn St
+77,2016-12-13,1.0,2.0, Staten Island ,1800.0,1920.0,NY ,10305.0,25 Mallory Ave
+78,2015-10-28,2.0,3.0, Staten Island ,2050.0,1400.0,NY ,10305.0,27 Rockwell Ave # 1ST
+79,2017-04-21,2.0,2.0, Staten Island ,1700.0,1080.0,NY ,10306.0,21 Navesink Pl
+80,2017-04-12,1.0,1.0, Staten Island ,1375.0,668.0,NY ,10306.0,558 Tysens Ln # B22
+81,2017-04-11,1.0,1.0, Staten Island ,1500.0,1950.0,NY ,10306.0,Rockland Ave
+82,2017-04-22,1.0,1.0, Staten Island ,1100.0,3212.0,NY ,10306.0,Meadow Ln
+83,2017-04-21,2.0,3.0, Staten Island ,1900.0,1300.0,NY ,10306.0,72 Stobe Ave
+84,2017-04-21,3.0,3.0, Staten Island ,2600.0,816.0,NY ,10306.0,Cannon Blvd
+85,2017-04-20,2.0,2.0, Staten Island ,1650.0,1500.0,NY ,10306.0,2305 Hylan Blvd
+86,2017-04-20,3.0,3.0, Staten Island ,2800.0,2225.0,NY ,10306.0,Woodcutters Ln
+87,2017-04-19,1.0,2.0, Staten Island ,1900.0,3300.0,NY ,10306.0,372 Oak Ave
+88,2017-04-19,1.0,2.0, Staten Island ,1700.0,3300.0,NY ,10306.0,Oak Ave
+89,2017-04-18,2.0,1.0, Staten Island ,1400.0,2070.0,NY ,10306.0,48 Behan Ct
+90,2017-04-13,1.0,2.0, Staten Island ,1650.0,1000.0,NY ,10306.0,Weed Ave
+91,2017-04-12,1.0,2.0, Staten Island ,1800.0,900.0,NY ,10306.0,278 Prescott Avenue # FL 1ST
+92,2017-04-12,2.0,1.0, Staten Island ,1800.0,2000.0,NY ,10306.0,226 Cannon Blvd
+93,2017-04-11,3.0,3.0, Staten Island ,2300.0,1900.0,NY ,10306.0,Finley Ave
+94,2017-04-11,1.0,2.0, Staten Island ,1650.0,1064.0,NY ,10306.0,Weed Ave
+95,2017-04-11,1.0,3.0, Staten Island ,2100.0,2016.0,NY ,10306.0,309 Adams Ave
+96,2017-04-05,2.0,3.0, Staten Island ,2500.0,2063.0,NY ,10306.0,Finley Ave
+97,2017-04-03,2.0,3.0, Staten Island ,2000.0,1200.0,NY ,10306.0,447 Adams Ave # 2
+98,2017-04-01,2.0,3.0, Staten Island ,2300.0,1300.0,NY ,10306.0,80 Mill Rd # 2
+99,2017-03-31,2.0,3.0, Staten Island ,1800.0,1400.0,NY ,10306.0,Guyon Ave
+100,2017-03-27,1.0,1.0, Staten Island ,1400.0,600.0,NY ,10306.0,Arthur Kill Road #
+101,2017-03-25,1.0,2.0, Staten Island ,1600.0,1854.0,NY ,10306.0,Cuba Ave
+102,2017-03-23,1.0,1.0, Staten Island ,1350.0,800.0,NY ,10306.0,Greeley Ave
+103,2016-12-28,1.0,3.0, Staten Island ,1800.0,1222.0,NY ,10306.0,Kelvin Avenue #
+104,2016-12-28,2.0,3.0, Staten Island ,2600.0,2444.0,NY ,10306.0,Kelvin Ave
+105,2017-04-19,1.0,1.0, Staten Island ,1000.0,4200.0,NY ,10307.0,Sprague Ave
+106,2017-04-04,1.0,1.0, Staten Island ,1250.0,4200.0,NY ,10307.0,Adlers Ln
+107,2017-04-04,1.0,1.0, Staten Island ,900.0,2012.0,NY ,10307.0,Sprague Ave
+108,2017-03-18,1.0,1.0, Staten Island ,1025.0,3550.0,NY ,10307.0,Brehaut Ave
+109,2017-02-07,1.0,1.0, Staten Island ,1200.0,2688.0,NY ,10307.0,39 Dell Ct
+110,2016-10-26,5.0,5.0, Staten Island ,7500.0,4500.0,NY ,10307.0,5505 Arthur Kill Rd
+111,2017-04-22,1.0,1.0, Staten Island ,950.0,500.0,NY ,10308.0,E Macon Avenue #
+112,2017-04-22,1.0,1.0, Staten Island ,1200.0,500.0,NY ,10308.0,161 Elmwood Ave # 1
+113,2017-04-16,1.0,1.0, Staten Island ,1050.0,2296.0,NY ,10308.0,Willow Wood Ln
+114,2017-04-12,1.0,2.0, Staten Island ,1700.0,4248.0,NY ,10308.0,4 Edgewood Rd
+115,2017-04-08,1.0,2.0, Staten Island ,1600.0,717.0,NY ,10308.0,Armstrong Ave
+116,2017-04-07,1.0,1.0, Staten Island ,1200.0,2912.0,NY ,10308.0,Armstrong Ave
+117,2017-03-30,1.0,3.0, Staten Island ,2950.0,875.0,NY ,10308.0,3936 Amboy Road # FL 1ST
+118,2017-03-29,1.0,1.0, Staten Island ,1200.0,1225.0,NY ,10308.0,Elmwood Ave
+119,2017-03-29,1.0,2.0, Staten Island ,1700.0,717.0,NY ,10308.0,910 Armstrong Ave
+120,2017-03-16,2.0,3.0, Staten Island ,2150.0,2088.0,NY ,10308.0,311 Great Kills Rd
+121,2017-02-26,1.0,1.0, Staten Island ,1150.0,500.0,NY ,10308.0,Cherrywood Ct
+122,2017-01-31,1.0,3.0, Staten Island ,1850.0,2700.0,NY ,10308.0,4062 Amboy Rd
+123,2016-11-23,1.0,1.0, Staten Island ,1150.0,2600.0,NY ,10308.0,Sandalwood Dr
+124,2016-11-16,3.0,3.0, Staten Island ,2400.0,3680.0,NY ,10308.0,18 Rhett Ave
+125,2016-10-28,1.0,4.0, Staten Island ,2550.0,1500.0,NY ,10308.0,74 Daleham St
+126,2017-04-21,1.0,1.0, Staten Island ,950.0,2392.0,NY ,10309.0,217 Gaynor St
+127,2017-04-22,2.0,4.0, Staten Island ,2600.0,2000.0,NY ,10309.0,Ramapo Ave
+128,2017-04-16,1.0,2.0, Staten Island ,1750.0,1100.0,NY ,10309.0,Gunton Pl
+129,2017-04-13,1.0,1.0, Staten Island ,950.0,750.0,NY ,10309.0,Winant Ave
+130,2017-04-13,2.0,3.0, Staten Island ,2500.0,2610.0,NY ,10309.0,39 Poplar Ave
+131,2017-04-13,1.0,1.0, Staten Island ,1200.0,2700.0,NY ,10309.0,57 Sharrotts Rd
+132,2017-04-11,1.0,1.0, Staten Island ,1250.0,2704.0,NY ,10309.0,(Undisclosed Address)
+133,2017-04-09,1.0,2.0, Staten Island ,1600.0,1360.0,NY ,10309.0,48 Marvin Rd
+134,2017-04-08,1.0,1.0, Staten Island ,1500.0,2770.0,NY ,10309.0,Foster Rd
+135,2017-04-04,1.0,1.0, Staten Island ,1375.0,2704.0,NY ,10309.0,(Undisclosed Address)
+136,2017-04-04,1.0,1.0, Staten Island ,1300.0,3485.0,NY ,10309.0,Brookside Loop
+137,2017-04-02,1.0,1.0, Staten Island ,1200.0,2496.0,NY ,10309.0,17 Bombay St
+138,2017-03-30,1.0,1.0, Staten Island ,1300.0,750.0,NY ,10309.0,32 Robin Ct
+139,2017-03-24,1.0,2.0, Staten Island ,1900.0,1440.0,NY ,10309.0,Rathbun Ave
+140,2017-03-23,2.0,3.0, Staten Island ,2600.0,2496.0,NY ,10309.0,Gervil St
+141,2017-03-18,1.0,2.0, Staten Island ,2000.0,4000.0,NY ,10309.0,Hallister St
+142,2017-03-12,3.0,4.0, Staten Island ,2600.0,2446.0,NY ,10309.0,1834 Drumgoole Rd W
+143,2017-03-11,2.0,3.0, Staten Island ,2800.0,2265.0,NY ,10309.0,Marisa Cir
+144,2017-03-05,2.0,3.0, Staten Island ,1900.0,1000.0,NY ,10309.0,54 Poplar Ave # 2
+145,2017-02-16,1.0,1.0, Staten Island ,1250.0,1000.0,NY ,10309.0,34 Seguine Loop # A
+146,2017-01-19,1.0,1.0, Staten Island ,1300.0,2400.0,NY ,10309.0,(Undisclosed Address)
+147,2016-11-03,1.0,1.0, Staten Island ,1200.0,2704.0,NY ,10309.0,Hemlock Ln
+148,2016-10-19,2.0,4.0, Staten Island ,2500.0,1950.0,NY ,10309.0,Amboy Rd
+149,2016-10-10,2.0,3.0, Staten Island ,4200.0,2200.0,NY ,10309.0,330 Seguine Ave # MAIN
+150,2016-08-02,2.0,4.0, Staten Island ,4200.0,2496.0,NY ,10309.0,93 Oswald Pl
+151,2016-07-21,1.0,1.0, Staten Island ,1000.0,2962.0,NY ,10309.0,Englewood Ave
+152,2015-07-16,3.0,3.0, Staten Island ,2500.0,2000.0,NY ,10309.0,55 Indale Ave # 1
+153,2017-04-16,1.0,2.0, Staten Island ,1600.0,700.0,NY ,10310.0,342 Davis Avenue # E FL 2ND
+154,2017-04-11,1.0,3.0, Staten Island ,1950.0,1250.0,NY ,10310.0,Broadway
+155,2017-04-05,3.0,5.0, Staten Island ,2199.0,1569.0,NY ,10310.0,16 Caroline St
+156,2017-04-04,1.0,3.0, Staten Island ,1950.0,5060.0,NY ,10310.0,536 Broadway
+157,2017-04-04,1.0,3.0, Staten Island ,1950.0,3920.0,NY ,10310.0,50 Manor Rd
+158,2017-04-01,1.0,1.0, Staten Island ,1300.0,700.0,NY ,10310.0,490 Clove Rd
+159,2017-03-29,2.0,2.0, Staten Island ,2400.0,1700.0,NY ,10310.0,172 Greenleaf Ave # 2A
+160,2017-03-12,2.0,2.0, Staten Island ,2050.0,3395.0,NY ,10310.0,Martling Ave
+161,2017-03-09,1.0,3.0, Staten Island ,2400.0,2100.0,NY ,10310.0,85 Bard Ave
+162,2017-03-09,1.0,2.0, Staten Island ,1850.0,1000.0,NY ,10310.0,40 Amelia Ct
+163,2016-09-17,1.0,3.0, Staten Island ,2250.0,2610.0,NY ,10310.0,205 Oakland Ave
+164,2017-04-21,1.0,1.0, Staten Island ,1380.0,800.0,NY ,10314.0,45 Vassar St
+165,2017-04-21,1.0,1.0, Staten Island ,1350.0,1800.0,NY ,10314.0,208 Roman Ave
+166,2017-04-20,1.0,1.0, Staten Island ,1500.0,2004.0,NY ,10314.0,92 Amsterdam Ave
+167,2017-04-17,2.0,2.0, Staten Island ,2200.0,1150.0,NY ,10314.0,2 Richmond Hill Rd
+168,2017-04-15,1.0,1.0, Staten Island ,1200.0,2538.0,NY ,10314.0,87 Amsterdam Ave # WALK
+169,2017-04-22,1.0,1.0, Staten Island ,1100.0,2120.0,NY ,10312.0,229 Getz Ave
+170,2017-04-21,2.0,4.0, Staten Island ,2800.0,2250.0,NY ,10312.0,Colon St
+171,2017-04-19,1.0,1.0, Staten Island ,1095.0,2288.0,NY ,10312.0,Wycliff Ln
+172,2017-04-19,1.0,1.0, Staten Island ,1000.0,1872.0,NY ,10312.0,Lamoka Ave
+173,2017-04-17,1.0,2.0, Staten Island ,1200.0,400.0,NY ,10312.0,414 Bartlett Ave # WALKIN
+174,2017-04-16,1.0,1.0, Staten Island ,1300.0,1890.0,NY ,10312.0,215 Mayberry Promenade
+175,2017-04-16,2.0,3.0, Staten Island ,2600.0,1520.0,NY ,10312.0,138 Forest Grn
+176,2017-04-10,1.0,3.0, Staten Island ,2200.0,2088.0,NY ,10312.0,26 Berry Ave W
+177,2017-04-09,1.0,2.0, Staten Island ,1450.0,600.0,NY ,10312.0,Memphis Ave
+178,2017-04-05,1.0,2.0, Staten Island ,1500.0,490.0,NY ,10312.0,41 Yucca Dr
+179,2017-04-04,1.0,1.0, Staten Island ,1200.0,2876.0,NY ,10312.0,Carlton Blvd
+180,2017-04-01,2.0,3.0, Staten Island ,2400.0,2093.0,NY ,10312.0,Canton Ave
+181,2017-04-01,1.0,3.0, Staten Island ,1900.0,2200.0,NY ,10312.0,3589 Richmond Ave
+182,2017-03-28,1.0,1.0, Staten Island ,1250.0,500.0,NY ,10312.0,115 Russek Dr
+183,2017-03-27,1.0,2.0, Staten Island ,1399.0,700.0,NY ,10312.0,Detroit Ave
+184,2017-03-22,1.0,1.0, Staten Island ,1300.0,2275.0,NY ,10312.0,128 Woehrle Ave
+185,2017-03-17,1.0,1.0, Staten Island ,1150.0,3750.0,NY ,10312.0,6 Carlton Ct
+186,2017-03-16,2.0,3.0, Staten Island ,2600.0,1068.0,NY ,10312.0,30 Seguine Pl
+187,2017-02-27,1.0,3.0, Staten Island ,2000.0,1000.0,NY ,10312.0,114 Stafford Ave # 2
+188,2017-02-21,1.0,2.0, Staten Island ,1550.0,1944.0,NY ,10312.0,164 Beach Rd
+189,2017-02-09,1.0,2.0, Staten Island ,1600.0,1944.0,NY ,10312.0,160 Beach Rd
+190,2017-02-02,1.0,1.0, Staten Island ,1300.0,2004.0,NY ,10312.0,Nippon Ave
+191,2017-01-09,1.0,3.0, Staten Island ,4500.0,2232.0,NY ,10312.0,17 Ashton Dr
+192,2017-04-21,1.0,1.0, Staten Island ,950.0,2392.0,NY ,10309.0,217 Gaynor St
+193,2017-04-21,1.0,1.0, Staten Island ,1380.0,800.0,NY ,10314.0,45 Vassar St
+194,2017-04-21,1.0,1.0, Staten Island ,1100.0,800.0,NY ,10305.0,129 Hurlbert St
+195,2017-04-21,2.0,2.0, Staten Island ,1700.0,1080.0,NY ,10306.0,21 Navesink Pl
+196,2017-04-20,3.0,3.0, Staten Island ,3800.0,2876.0,NY ,10314.0,(Undisclosed Address)
+197,2017-04-21,1.0,1.0, Staten Island ,1380.0,800.0,NY ,10314.0,45 Vassar St
+198,2017-04-20,3.0,3.0, Staten Island ,3800.0,2876.0,NY ,10314.0,(Undisclosed Address)
+199,2017-04-01,3.0,3.0, Staten Island ,3000.0,2408.0,NY ,10314.0,518 W Caswell Ave
+200,2017-04-22,2.0,3.0, Staten Island ,2200.0,1600.0,NY ,10314.0,Stewart Ave
+201,2017-04-21,1.0,1.0, Staten Island ,1350.0,1800.0,NY ,10314.0,208 Roman Ave
+202,2017-04-20,1.0,3.0, Staten Island ,1800.0,1000.0,NY ,10314.0,26 Tillman Street # FL 2ND
+203,2017-04-20,1.0,1.0, Staten Island ,1500.0,2004.0,NY ,10314.0,92 Amsterdam Ave
+204,2017-04-19,2.0,3.0, Staten Island ,2450.0,2000.0,NY ,10314.0,11 Rockne St
+205,2017-04-18,1.0,1.0, Staten Island ,1300.0,1000.0,NY ,10314.0,375 Manor Rd
+206,2017-04-17,2.0,2.0, Staten Island ,2200.0,1150.0,NY ,10314.0,2 Richmond Hill Rd
+207,2017-04-16,1.0,2.0, Staten Island ,1695.0,1824.0,NY ,10314.0,543 Manor Rd
+208,2017-04-16,1.0,2.0, Staten Island ,1700.0,1000.0,NY ,10314.0,358 Melba Street # FL 1ST
+209,2017-04-16,1.0,2.0, Staten Island ,1595.0,1800.0,NY ,10314.0,541 Manor Rd
+210,2017-04-15,1.0,1.0, Staten Island ,1200.0,2538.0,NY ,10314.0,87 Amsterdam Ave # WALK
+211,2017-04-13,3.0,3.0, Staten Island ,2500.0,2200.0,NY ,10314.0,196 Essex Dr
+212,2017-04-12,1.0,1.0, Staten Island ,1450.0,649.0,NY ,10314.0,65 Elmwood Park Drive 19-B FL 1
+213,2017-04-06,1.0,3.0, Staten Island ,1895.0,1800.0,NY ,10314.0,132 Paulding Avenue # First Floor
+214,2017-04-05,1.0,1.0, Staten Island ,1200.0,1992.0,NY ,10314.0,Carnegie Ave
+215,2017-04-05,1.0,2.0, Staten Island ,1500.0,800.0,NY ,10314.0,Dongan Avenue #
+216,2017-04-01,3.0,3.0, Staten Island ,2475.0,1868.0,NY ,10314.0,Comstock Ave
+217,2017-03-31,1.0,2.0, Staten Island ,1600.0,1872.0,NY ,10314.0,37 Gurdon St
+218,2017-03-30,2.0,2.0, Staten Island ,1900.0,1414.0,NY ,10314.0,1458 Forest Hill Rd UNIT 1
+219,2017-03-30,1.0,3.0, Staten Island ,2300.0,1000.0,NY ,10314.0,430 Slosson Avenue # FL 1ST
+220,2017-03-29,1.0,3.0, Staten Island ,1900.0,1173.0,NY ,10314.0,164 Livermore Avenue # FL 2ND
+221,2017-03-28,1.0,1.0, Staten Island ,1275.0,2340.0,NY ,10314.0,Woodbine Ave
+222,2017-03-25,1.0,2.0, Staten Island ,1700.0,850.0,NY ,10314.0,535 Manor Road # FL 1ST
+223,2017-03-25,1.0,1.0, Staten Island ,1500.0,591.0,NY ,10314.0,1301 Rockland Ave # 1ST
+224,2017-03-24,1.0,1.0, Staten Island ,1500.0,800.0,NY ,10314.0,Rockland Ave
+225,2017-03-24,1.0,1.0, Staten Island ,1350.0,1400.0,NY ,10314.0,53 Daffodil Ln # 53
+226,2017-03-21,1.0,3.0, Staten Island ,2300.0,1300.0,NY ,10314.0,16 Dorothy Street # FL 2ND
+227,2017-03-15,1.0,2.0, Staten Island ,1875.0,1000.0,NY ,10314.0,40 Rice Ave # 2
+228,2017-03-13,1.0,3.0, Staten Island ,2300.0,1100.0,NY ,10314.0,Jennifer Pl
+229,2017-03-11,3.0,3.0, Staten Island ,2350.0,1870.0,NY ,10314.0,78 Burke Ave
+230,2017-02-21,1.0,1.0, Staten Island ,1375.0,500.0,NY ,10314.0,212 Merrymount St # 1
+231,2017-02-13,1.0,3.0, Staten Island ,1800.0,1680.0,NY ,10314.0,44 Bradley Ave
